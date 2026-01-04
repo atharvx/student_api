@@ -10,7 +10,6 @@ import (
 	"os/signal"
 	"syscall"
 	"time"
-
 	"github.com/atharvx/student-api/internal/config"
 	"github.com/atharvx/student-api/internal/http/handlers/student"
 	"github.com/atharvx/student-api/internal/storage/sqlite"
